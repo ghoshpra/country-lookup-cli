@@ -1,0 +1,16 @@
+{
+  "name": "country-lookup-cli",
+  "version": "1.0.0",
+  "description": "Country lookup CLI",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./src/commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@ghoshpradipta",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0"
+  }
+}
